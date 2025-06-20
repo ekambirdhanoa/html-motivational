@@ -1,0 +1,48 @@
+html {
+  background-color: black;
+}
+
+#main {
+  border: solid white;
+  display: block;
+  margin: auto;
+  width: 50%;
+}
+
+#jigralogo {
+  height: 50px;
+  margin-left: 49%;
+}
+
+div {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 1%;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+p {
+  color: white;
+  text-align: center;
+  font-family: "Libre Baskerville", serif;
+  font-weight: 200;
+  font-style: normal;
+  font-size: small;
+}
+
+footer {
+  color: white;
+  text-align: center;
+  font-family: "Libre Baskerville", serif;
+  font-weight: 200;
+  font-style: normal;
+  font-size: xx-small;
+  text-transform: uppercase;
+}
